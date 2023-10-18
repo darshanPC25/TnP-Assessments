@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/lp/OneDrive/Documents/GitHub/TnPCollage/Assignment2",
-      "program": "c:/Users/lp/OneDrive/Documents/GitHub/TnPCollage/Assignment2/build/Debug/outDebug",
+      "cwd": "c:/Users/lp/OneDrive/Documents/GitHub/TnPCollage/Assignment4",
+      "program": "c:/Users/lp/OneDrive/Documents/GitHub/TnPCollage/Assignment4/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
